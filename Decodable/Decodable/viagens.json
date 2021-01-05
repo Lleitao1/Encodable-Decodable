@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Ceara",
+        "quantidade_de_dias": 5,
+        "preco": "1800,00",
+        "localizacao": "Canoa Quebrada"
+    },
+    
+    {
+        "id": 2,
+        "titulo": "Rio de Janeiro",
+        "quantidade_de_dias": 8,
+        "preco": "1300,00",
+        "localizacao": "Barra"
+    },
+    
+    {
+        "id": 3,
+        "titulo": "Cancun",
+        "quantidade_de_dias": 12,
+        "preco": "3000,00",
+        "localizacao": "Quintana Roo"
+    }
+
+]
